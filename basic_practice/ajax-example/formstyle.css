@@ -1,0 +1,14 @@
+#form-div{
+	position: relative;
+	left: 30%;
+	width: 400px;
+	background-color: gray;
+	padding: 30px;
+}
+input,select{
+	display: block;
+	width: 100%;
+}
+#a{
+	margin-bottom: 10px;
+}
